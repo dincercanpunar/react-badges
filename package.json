@@ -9,7 +9,9 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "keywords": [],
+  "keywords": [
+    "badge"
+  ],
   "author": "Dinçer Canpunar",
   "license": "ISC",
   "devDependencies": {
@@ -36,5 +38,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dincercanpunar/react-badges.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/dincercanpunar/react-badges/issues"
+  },
+  "homepage": "https://github.com/dincercanpunar/react-badges#readme"
 }
