@@ -20,7 +20,7 @@ Then...
 
 ## Options
 
-react-badges supports 2 options, both of which are optional:
+react-badges supports 3 options, both of which are optional:
 
 * *type* - primary | success | danger (Defaults to primary)
 * *badgeStyle* - solid | light | outline (Defaults to solid)
