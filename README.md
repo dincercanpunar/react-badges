@@ -16,7 +16,7 @@ Then...
     </Badge>
 ```
 
-![alt text](https://github.com/dincercanpunar/react-badges/tree/master/src/react-badges.png?raw=true)
+![alt text](https://github.com/dincercanpunar/react-badges/blob/master/src/react-badges.png?raw=true)
 
 ## Options
 
