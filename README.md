@@ -16,9 +16,12 @@ Then...
     </Badge>
 ```
 
+![alt text](https://github.com/dincercanpunar/react-badges/tree/master/src/react-badges.png?raw=true)
+
 ## Options
 
 react-badges supports 2 options, both of which are optional:
 
-* *type* - _primary | _success | _danger (Defaults to primary)
-* *size* - _sm | _md | _lg | _xl (Defaults to md)
+* *type* - primary | success | danger (Defaults to primary)
+* *badgeStyle* - solid | light | outline (Defaults to solid)
+* *size* - sm | md | lg | xl (Defaults to md)
